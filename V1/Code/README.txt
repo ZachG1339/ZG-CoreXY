@@ -1,5 +1,6 @@
 /*
 // mathematical inputs to set motor speed 
+// The scaling is speed in steps/revolution over the (maximum joystick output)/2  
 
 Linear Algebra:
 [a b] [joyX]   [ V_Left]
