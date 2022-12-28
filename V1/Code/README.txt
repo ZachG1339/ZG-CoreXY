@@ -1,5 +1,5 @@
 /*
-// mathematical inputs to set motor speed (check phone for math)
+// mathematical inputs to set motor speed 
 
 Linear Algebra:
 [a b] [joyX]   [ V_Left]
