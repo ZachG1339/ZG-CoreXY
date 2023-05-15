@@ -23,3 +23,10 @@
 - DC Power Supply -> compatible with motors and drivers
 - Generous supply of F-M and M-M DuPont (jumper) wires -> at least 6 and 10 respectively
 
+## Additional Materials:
+- Adafruit Motor Shield V2 -> max per motor current 1.2 A
+  - [Adafruit Documentation](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino)
+- 1 [SG90 servo motor](https://www.amazon.ca/Micro-Servos-Helicopter-Airplane-Controls/dp/B07MLR1498/ref=sr_1_5?crid=3LEQ2GAQYVWLO&keywords=sg90+continuous&qid=1672194251&sprefix=sg90+continuous%2Caps%2C99&sr=8-5)
+- 5 F-M jumper wires
+- 1 Arduino joystick module
+
