@@ -1,3 +1,5 @@
+-s
+
 ### Required Materials:
 (N and M are arbitrary constants)
 - ~500g of PLA and 3D printer access
