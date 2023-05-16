@@ -1,3 +1,10 @@
+![image](https://github.com/ZachG1339/CoreXY/assets/121523537/abb939d9-658f-46d0-a799-f1179f1c4ad4)
+
+
+![image](https://github.com/ZachG1339/CoreXY/assets/121523537/bcbfa9c5-e8c4-4b57-ba59-21598b596eb4)
+
+
+
 ### Required Materials:
 (N and M are arbitrary constants)
 - ~500g of PLA and 3D printer access
