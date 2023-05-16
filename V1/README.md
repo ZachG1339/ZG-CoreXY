@@ -18,9 +18,10 @@
 - 18 M5 nuts or 9 M5 lock nuts
 - 4 13mm segements of smooth 5mm diameter shaft
 
+(note: M5 items can be comfortably replaced with 3/16" equivalents)
 ![image](https://github.com/ZachG1339/CoreXY/assets/121523537/bcbfa9c5-e8c4-4b57-ba59-21598b596eb4)
 
-(note: M5 items can be comfortably replaced with 3/16" equivalents)
+
 #### Electrical:
 - 2 identical NEMA 17 stepper motors
 - Arduino Uno R3 or Mega R3
